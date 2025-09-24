@@ -27,7 +27,7 @@ Blue Carbon Registry is a decentralized application (dApp) built on Ethereum to 
 
 * **Blockchain**: Ethereum (Hardhat)
 * **Language**: Solidity
-* **Frontend**: (if any)
+* **Frontend**: React
 * **Testing**: Hardhat, Chai
 * **Package Manager**: NPM
 
